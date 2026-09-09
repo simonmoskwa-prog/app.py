@@ -10,7 +10,7 @@ st.set_page_config(page_title="Weinstein Stage-Analysis Dashboard | Simon Moskwa
 
 # Titel & Autor-Information
 st.title("Weinstein Stage-Analysis RS-Dashboard")
-st.markdown("### Erstellt von **SimonTestMoskwa**")
+st.markdown("### Erstellt von **Simon Moskwa**")
 st.caption("Markt → Sektor → Top-Aktien | Basierend auf Stan Weinsteins Phasenanalyse (Wochencharts, 30-Wochen-SMA & Mansfield Relative Strength)")
 
 BENCHMARK = "^GSPC"
